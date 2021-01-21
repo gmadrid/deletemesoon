@@ -1,7 +1,7 @@
 # Tonight
 1. Add buttons for
-  * New pre-show slideshow
-  * New final slide with charity
+  1. New pre-show slideshow
+  2. New final slide with charity
 
 # Order
 1. Slide show with music
