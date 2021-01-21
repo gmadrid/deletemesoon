@@ -1,8 +1,3 @@
-# Tonight
-1. Add buttons for
-   * New pre-show slideshow
-   * New final slide with charity
-
 # Order
 1. Slide show with music
 2. Animation (See detailed instructions)
@@ -13,8 +8,8 @@
 7. Alba __video__ (See detailed instructions)
 8. Colin
 9. Hosts
-10. Retrospective movie (See detailed instructions)
-11. Curtain call
+10. Curtain call
+11. Retrospective movie (See detailed instructions)
 
 # To play a video
 * Prep
