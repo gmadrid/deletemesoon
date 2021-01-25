@@ -24,13 +24,17 @@
   * Turn off mic/video
 
 # Start
+* Have text for Facebook feed
+  * Title
+  * Description
+  * Donation link
 * Set up slideshow
-  * Start VLC with the music playlist
 * Be Host
 * Turn on Virtual Camera in OBS
 * Switch to Virtual Camera in Zoom
 * Switch to Virtual Mic in Zoom
-* Start "Logo w/Music" Scene
+* Start "Slideshow w/Music" Scene
+* Start Webinar
 * Start Facebook feed
   * Have text for Facebook feed ready to go.
 
